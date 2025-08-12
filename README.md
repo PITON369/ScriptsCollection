@@ -1,4 +1,4 @@
-# Personal Scripts Collection
+# Scripts Collection
 
 This repository contains a collection of useful automation scripts that I have created over time for various tasks and environments.
 
