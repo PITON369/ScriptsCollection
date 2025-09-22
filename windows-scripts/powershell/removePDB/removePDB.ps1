@@ -1,6 +1,6 @@
-Write-Host "Запуск очистки от файлов .pbd"
+Write-Host "Starting file cleanup .pbd"
 $temp="0"
-$PathToDir="D:\ConstrPSBin\ConstrPSBin_Rx64"
+$PathToDir="D:\git"
 Push-Location "$PathToDir"
 foreach($File in Get-ChildItem -Path "$PathToDir" -Recurse -File)
 	{
