@@ -15,6 +15,8 @@ This repository contains a collection of useful automation scripts that I have c
 
   - /yandex-docs/ – JavaScript scripts for automating Yandex Docs.
 
+- /python/ - Python common scripts for Windows.
+
 ## Purpose
 The goal of this collection is to speed up routine tasks, reduce manual errors, and explore automation opportunities across different platforms and tools.
 
